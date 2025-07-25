@@ -23,4 +23,4 @@ It has practical applications in real-world scenarios like people counting in en
 
 OUTPUT:
 
-<img width="1297" height="730" alt="Image" src="https://github.com/user-attachments/assets/971a1234-fd70-4773-974f-6ba71f754c34" />
+<img width="1308" height="732" alt="Image" src="https://github.com/user-attachments/assets/7d5507f3-65c6-4278-98b8-623d05d78a30" />
