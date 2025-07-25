@@ -1,16 +1,16 @@
 # PUSH-BUTTON-COUNTER
 
-*COMPANY*: CODTECH IT SOLUTIONS
+**COMPANY**: CODTECH IT SOLUTIONS
 
-*NAME*: RIFANA NAZREEN A
+**NAME**: RIFANA NAZREEN A
 
-*INTERN ID*:CT04DH23
+**INTERN ID**:CT04DH23
 
-*DOMAIN*: EMBEDDED SYSTEMS
+**DOMAIN**: EMBEDDED SYSTEMS
 
-*DURATION*: 4 WEEKS
+**DURATION**: 4 WEEKS
 
-*MENTOR*: NEELA SANTHOSH
+**MENTOR**: NEELA SANTHOSH
 
 DESCRIPTION:
 This internship task involves building a digital push-button counter system using an Arduino Uno and a 16x2 LCD display. The objective is to count the number of times a button is pressed and display that count in real-time on the LCD screen. 
