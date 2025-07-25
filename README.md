@@ -20,3 +20,7 @@ The code begins by including the LiquidCrystal library to control the LCD and in
 APPLICATION:
 This system provides a simple yet effective way to monitor discrete input events such as button presses.
 It has practical applications in real-world scenarios like people counting in entrances and exits, event tally counters in laboratories, basic voting systems, or machine cycle counting in industrial environments. This task demonstrates the fundamentals of interfacing input devices with microcontrollers, using display modules, and implementing software-level debouncing to ensure reliable and accurate user input detection. It’s an excellent beginner-level project that builds a strong foundation in embedded systems and real-time user interaction design.
+
+OUTPUT:
+
+<img width="1297" height="730" alt="Image" src="https://github.com/user-attachments/assets/971a1234-fd70-4773-974f-6ba71f754c34" />
